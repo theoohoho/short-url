@@ -6,6 +6,8 @@ authors = ["theoohoho <topslimer@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+fastapi = "^0.70.1"
+bitarray = "^2.3.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
